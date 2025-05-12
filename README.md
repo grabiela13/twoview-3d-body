@@ -50,7 +50,7 @@ As the output is a rigged mesh, this can be fully animated. This feature is not 
 │   └── crop_resize.py       # Cropping and resizing utility
 ├── model/
 │   └── predict_3Dmodel.py   # PCA reconstruction logic 
-│   └── shape_predictor.pth  # Trained PyTorch model predicting PCA shape parameters
+│   └── shape_predictor.pth  # Trained PyTorch model predicting PCA shape parameters (*)
 │   └── pca_files/
 │       ├── pca_features.npy
 │       └── pca_model.pkl
@@ -62,6 +62,7 @@ As the output is a rigged mesh, this can be fully animated. This feature is not 
 │       └── output model (.glb)
 ├── README.md
 ```
+(*) This file is not included due to GitHub’s 100MB limit. It will be available soon via external link.  
 
 ---
 
