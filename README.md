@@ -4,8 +4,8 @@ This project allows users to upload a **front** and **side** image of a person, 
 
 ## Authors
 
-Gabriela Ayala, Guillermo Benitez, Santiago Benitez  
-*Universidad Politécnica Taiwan Paraguay*  
+Gabriela Ayala, Guillermo Benitez (https://github.com/Guillermelo), Santiago Benitez (https://github.com/Santibenitezl03)
+*Universidad Politécnica Taiwan Paraguay*   
 
 Chi-Pin Tsai, Chen-Yu Yuan, Tzung-Han Lin*  
 *National Taiwan University of Science and Technology*
